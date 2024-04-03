@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/logo.svg)
 
 # 🚀 Web Development Challenge
 
@@ -15,7 +15,7 @@ O objetivo desta challenge era criar uma aplicação em REACT de uma loja de esp
 
 # 🧠 Contexto
 
-![Projeto]()
+![Projeto](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/imageminicial.svg)
 
 Projeto realizado no formato REACT para desenvolvimento das habilidades com a linguagem e aprimoramento:
 - [ ] Catálogo de produtos com paginação
