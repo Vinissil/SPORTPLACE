@@ -5,10 +5,7 @@ import imagemLoja from '../assets/img/loja.svg'
 function Sobre() {
   return (
     <>
-      <section className="sobre">
 
-
-      </section>
     </>
   );
 }
