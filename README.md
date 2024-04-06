@@ -18,11 +18,8 @@ O objetivo desta challenge era criar uma aplicação em REACT de uma loja de esp
 ![Projeto](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/imageminicial.svg)
 
 Projeto realizado no formato REACT para desenvolvimento das habilidades com a linguagem e aprimoramento:
-- [ ] Catálogo de produtos com paginação
-- [ ] Filtragem produtos por categoria
-- [ ] Busca por nome do produto
-- [ ] Adicionar e remover produtos do carrinho
-- [ ] Finalizar compra
+- [x] Catálogo de produtos com paginação
+
 
 ## 📋 Instruções
 
