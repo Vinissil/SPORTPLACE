@@ -1,53 +1,43 @@
-![image](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/logo.svg)
+# 🚀 SportPlace - Web Development Project
 
-# 🚀 Web Development Challenge
+![Logo](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/logo.svg)
 
-Bem-vindo(a) ao projeto de web development uma aplicação desenvolvida em REACT.JS!
+Welcome to **SportPlace**, a web development project created with **React.js**! This project was developed as part of a challenge to build a sports store application.
 
-O objetivo desta challenge era criar uma aplicação em REACT de uma loja de esportes.
-
-> ⚠️ **Projeto Desenvolvido pelo Grupo**
-## 😎 Integrantes
-- Gabriel Mediotti Marques - 552632
-- Jó Sales - 552679
-- Miguel Garcez de Carvalho - 553768
-- Vinicius Souza e Silva - 552781
-
-# 🧠 Contexto
-
-![Projeto](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/imageminicial.svg)
-
-Projeto realizado no formato REACT para desenvolvimento das habilidades com a linguagem e aprimoramento:
-- [x] Catálogo de produtos com paginação
-
-
-## 📋 Instruções
-
-Como iniciar essa aplicação!
-1) npm create vite@latest .  (cria um projeto caso esteja dentro da pasta)
-2) npm install (instal o pacote node_modules)
-3) npm run dev (executa o projeto)
-
--Utilizando a IDE VSCode.
--Imagens em SVG.
--Utilizando estrutura padrão dada em sala no arquivo APP.jsx.
-
-//INSTALAÇÃO DAS DEPENDÊNCIAS 
-
-No terminal digite: npm install react-router-dom
-
-//PARA EXECUTAR ESSE PROJETO EM SEU COMPUTADOR ABRA O PROJETO NO VSCODE
-DEPOIS NO TERMINAL DIGITE : npm install  ( para instalar a pasta node_modules)
-
-
-## ✔️ Criação de páginas
-
-Páginas criadas de acordo com o que foi pedido no projeto:
-
-- Home
-- Sobre
-- Produto
-- Contato
 ---
 
-Made by the SQUADTEAM FIAP 1ESPR.
+## 🧠 Context
+
+![Project Preview](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/imageminicial.svg)
+
+The goal of this project was to strengthen React.js development skills while building a functional and visually appealing sports store application. Key features include:
+
+- 📄 **Product Catalog**: Displays products with pagination for better navigation.
+- ⚡ **Interactive Pages**: Seamless navigation between pages using React Router.
+
+---
+
+## 😎 Team Members
+
+This project was a collaborative effort by **SQUADTEAM FIAP 1ESPR**:
+
+- Gabriel Mediotti Marques - 552632  
+- Jó Sales - 552679  
+- Miguel Garcez de Carvalho - 553768  
+- Vinicius Souza e Silva - 552781  
+
+---
+
+## 📋 Getting Started
+
+Follow the instructions below to set up and run the application locally:
+
+### 1️⃣ Prerequisites
+- Install **Node.js** (https://nodejs.org/)
+- Install a code editor like **VSCode** (https://code.visualstudio.com/)
+
+### 2️⃣ Installation Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT.git
+   cd SPORTPLACE---WEB-DEVELOPMENT-PROJECT
