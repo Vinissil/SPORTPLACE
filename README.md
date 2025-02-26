@@ -14,8 +14,6 @@ This project is for educational purposes and was developed as part of the FIAP c
 
 ## 🧠 Context
 
-![Project Preview](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/imageminicial.svg)
-
 The goal of this project was to strengthen React.js development skills while building a functional and visually appealing sports store application. Key features include:
 
 - 📄 **Product Catalog**: Displays products with pagination for better navigation.
