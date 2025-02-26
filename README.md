@@ -1,7 +1,7 @@
 # 🚀 SportPlace - Web Development Project
 
 ![Logo](https://github.com/Vinissil/SPORTPLACE---WEB-DEVELOPMENT-PROJECT/blob/main/src/assets/img/logo.svg)
-![Tela Inicial]()
+![Tela Inicial](https://github.com/Vinissil/SPORTPLACE/blob/main/src/assets/img/tela%20incial%20sportplace.png)
 
 Welcome to **SportPlace**, a web development project created with **React.js**! This project was developed as part of a challenge to build a sports store application.
 ---
